@@ -130,3 +130,5 @@ dmypy.json
 
 src/config.txt
 src/assets
+.project
+.pydevproject
